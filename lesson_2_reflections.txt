@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git adds the .git directory to the selected directory which ties the Git repository to that directory. By doing so only files from that directory and sub-directories will be contained in that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area provides an intermediate space that allows you to only add specific files that you feel provide logical separation for a commit because it's best practice to keep commits small and manageable. It adds value because you are able to keep your commits small and combine only those files for that commit instead of adding all your files in the working directory to any one commit.
