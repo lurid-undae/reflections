@@ -5,3 +5,7 @@ Git adds the .git directory to the selected directory which ties the Git reposit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area provides an intermediate space that allows you to only add specific files that you feel provide logical separation for a commit because it's best practice to keep commits small and manageable. It adds value because you are able to keep your commits small and combine only those files for that commit instead of adding all your files in the working directory to any one commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Some situations where branches help history organization include adding an experimental feature to your project or rewriting your project in another language. Branched help by providing you another instance or your project to work on or experiment with without affecting your original version.
