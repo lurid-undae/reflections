@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+The main reason for using a remote repository is the ability it provides by syncing data in multiple locations.
+Two examples why this is useful would be if someone else was working on and making changes to a project or if you
+were wanting to work on a project from a another location away from you local machine.
