@@ -9,3 +9,11 @@ remote repository?
 
 You need to be in control over the code you wish to work with. There is no benefit working with buggy code that would
 be unpredictable and always changing.
+
+
+Describle the difference between, forks, clones and branches? When would you use one instead of the other?
+
+A fork is a clone of a repository that's only moved to a new location on GitHub. You'd use it when you want ot make changes to the
+repository but you don't have permission to access the original. Clones are copies of GitHup repositories that can be stored to anywhere 
+you have access to Git. You would use clones when you want to collaborate with people. Branches are changes made within the same 
+repository,generally used to fix bugs or introducing new features.
