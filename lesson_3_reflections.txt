@@ -1,19 +1,25 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
-  The reason for using remote repositories is for it's ability to sync data in multiple locations.
-  Two examples for why this is useful would be if someone else was working on and making changes to 
-  your project or if you were wanting to work on your project from a different machine or locations.
+	The reason for using remote repositories is for it's ability to sync data in multiple locations.
+  	Two examples for why this is useful would be if someone else was working on and making changes to 
+  	your project or if you were wanting to work on your project from a different machine or locations.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up to date with your
 remote repository?
 
-You need to be in control of the code you work on. There is no benefit working with buggy code that would
-be unpredictable and always changing according to Git.
+	You need to be in control of the code you work on. There is no benefit working with buggy code that would
+	be unpredictable and always changing according to Git.
 
 Describle the difference between, forks, clones and branches? When would you use one instead of the other?
 
-  A fork is a clone of a repository that's only moved to a new location on GitHub. You'd use it when 
-  you want ot make changes to the repository but you don't have permission to access the original. 
-  Clones are copies of GitHup repositories that can be stored to anywhere you have access to Git. 
-  You would use clones when you want to collaborate with people. Branches are changes made within the same 
-  repository, generally used to fix bugs or introducing new features.
+  	A fork is a clone of a repository that's only moved to a new location on GitHub. You'd use it when 
+  	you want ot make changes to the repository but you don't have permission to access the original. 
+  	Clones are copies of GitHup repositories that can be stored to anywhere you have access to Git. 
+  	You would use clones when you want to collaborate with people. Branches are changes made within the same 
+  	repository, generally used to fix bugs or introducing new features.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ 	An advantage of having the last known state of a remote stored locally is that it enables you to work 
+ 	on your project while you're offline. This can be done even if you're not ready to merge changes into 
+ 	your own branch.
